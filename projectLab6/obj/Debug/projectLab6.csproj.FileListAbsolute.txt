@@ -1,0 +1,10 @@
+D:\Study\ртиппо\projectLab6\projectLab6\bin\Debug\projectLab6.exe.config
+D:\Study\ртиппо\projectLab6\projectLab6\bin\Debug\projectLab6.exe
+D:\Study\ртиппо\projectLab6\projectLab6\bin\Debug\projectLab6.pdb
+D:\Study\ртиппо\projectLab6\projectLab6\obj\Debug\projectLab6.csproj.AssemblyReference.cache
+D:\Study\ртиппо\projectLab6\projectLab6\obj\Debug\projectLab6.Form1.resources
+D:\Study\ртиппо\projectLab6\projectLab6\obj\Debug\projectLab6.Properties.Resources.resources
+D:\Study\ртиппо\projectLab6\projectLab6\obj\Debug\projectLab6.csproj.GenerateResource.cache
+D:\Study\ртиппо\projectLab6\projectLab6\obj\Debug\projectLab6.csproj.CoreCompileInputs.cache
+D:\Study\ртиппо\projectLab6\projectLab6\obj\Debug\projectLab6.exe
+D:\Study\ртиппо\projectLab6\projectLab6\obj\Debug\projectLab6.pdb
